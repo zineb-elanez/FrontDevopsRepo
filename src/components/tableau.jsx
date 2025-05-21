@@ -33,7 +33,7 @@ const columns = [
     key: 'action',
     render: () => (
       <Space size="middle">
-        <a>Supprimer</a>
+        <a>Modifier</a>
         <a>
           <Space>
             Plus d'actions <DownOutlined />

@@ -7,8 +7,8 @@ const Statistique = () => (
     <Col span={6}>
       <Card variant="borderless">
         <Statistic
-          title="Total"
-          value={1200}
+          title="Total "
+          value={2000}
           precision={0}
           prefix={<EditOutlined />}
           suffix=""

@@ -6,7 +6,7 @@ import '../index.css';
 // Définition des colonnes
 const columns = [
   {
-    title: 'ID',
+    title: 'IDS',
     dataIndex: 'id',
     key: 'id',
     sorter: (a, b) => a.id - b.id,

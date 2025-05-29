@@ -19,7 +19,7 @@ const Statistique = () => (
       <Card variant="borderless">
         <Statistic
           title=" Non Traitées"
-          value={200}
+          value={4000}
           precision={0}
           valueStyle={{ color: '#cf1322' }}
           prefix={<CloseCircleOutlined />}
